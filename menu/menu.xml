@@ -1,0 +1,51 @@
+<?xml version="1.0" ?> 
+<menu>
+  <meal id="0">
+    <category>0</category>
+    <name>Tomato and Cheese</name>
+    <size id="0">
+		Small
+		<price>5.50</price>
+	</size>
+	<size id="1">
+		Large
+		<price>9.75</price>
+	</size>
+  </meal>
+  <meal id="1">
+    <category>0</category>
+    <name>Hamburg</name>
+    <size id="0">
+		Small
+		<price>6.85</price>
+	</size>
+	<size id="1">
+		Large
+		<price>10.85</price>
+	</size>
+  </meal>
+  <meal id="2">
+    <category>0</category>
+    <name>Grilled Chicken</name>
+    <size id="0">
+		Small
+		<price>7.95</price>
+	</size>
+	<size id="1">
+		Large
+		<price>11.80</price>
+	</size>
+  </meal>
+  <meal id="3">
+    <category>1</category>
+    <name>Three Aces Special</name>
+    <size id="0">
+		Small
+		<price>9.80</price>
+	</size>
+	<size id="1">
+		Large
+		<price>15.80</price>
+	</size>
+  </meal>
+</menu>

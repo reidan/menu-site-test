@@ -1,0 +1,18 @@
+<?xml version="1.0" ?> 
+<categories>
+  <category id="0">
+    <name>Pizza</name>
+  </category>
+  <category id="1">
+    <name>Salad</name>
+  </category>
+  <category id="2">
+    <name>Specialty Pizza</name>
+  </category>
+  <category id="3">
+    <name>Special Dinners</name>
+  </category>
+  <category id="4">
+    <name>Spaghetti</name>
+  </category>
+</categories>
